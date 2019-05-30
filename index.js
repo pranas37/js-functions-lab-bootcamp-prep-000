@@ -5,7 +5,7 @@ function happyHolidays(){
 function happyHolidaysTo(mika){
   return  `Happy holidays, ${'you'}!`
 }
-function happyHollidaysTo(holiday, pranas){
+function happyHollidayTo(holiday, pranas){
   return `Happy, ${'Independence Day'}, ${'you'}!`
 }
 function holidayCountdown(days , sevendays){
