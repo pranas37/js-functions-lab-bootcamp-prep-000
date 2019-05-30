@@ -8,6 +8,6 @@ function happyHolidaysTo(mika){
 function happyHolidayTo(holiday, pranas){
   return `Happy ${holiday}, ${pranas}!`
 }
-function holidayCountdown(sevendays , days){
-  return `It's ${sevendays} days until!${days}!`
+function holidayCountdown(days , sevendays){
+  return `It's ${days} days until!${sevendays}!`
 }
