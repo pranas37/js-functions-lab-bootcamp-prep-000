@@ -9,5 +9,5 @@ function happyHollidayTo(holiday, pranas){
   return `Happy, ${'Independence Day'}, ${'you'}!`
 }
 function holidayCountdown(days , sevendays){
-  return 
+  return "It's ${days} days until${holiday}!":
 }
